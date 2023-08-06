@@ -62,8 +62,8 @@ const register = async (req, res)=>{
               .container{
                 background-color:black;
                 color:white;
-                width:50%;
-                height:350px;
+                width:100%;
+                height:450px;
                 padding-left:70px;
                 padding-top:40px;
                 padding-right:25px;
